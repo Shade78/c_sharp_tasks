@@ -1,0 +1,16 @@
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\4th_task.exe
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\4th_task.deps.json
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\4th_task.runtimeconfig.json
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\4th_task.runtimeconfig.dev.json
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\4th_task.dll
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\ref\4th_task.dll
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\bin\Debug\net5.0\4th_task.pdb
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.csproj.AssemblyReference.cache
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.AssemblyInfoInputs.cache
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.AssemblyInfo.cs
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.dll
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\ref\4th_task.dll
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.pdb
+C:\Users\Дамир\Desktop\c#_kgeu\4th_task\4th_task\obj\Debug\net5.0\4th_task.genruntimeconfig.cache
