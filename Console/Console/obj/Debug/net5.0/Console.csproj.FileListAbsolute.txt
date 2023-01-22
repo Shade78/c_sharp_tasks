@@ -1,0 +1,16 @@
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\Console.exe
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\Console.deps.json
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\Console.runtimeconfig.json
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\Console.runtimeconfig.dev.json
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\Console.dll
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\ref\Console.dll
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\bin\Debug\net5.0\Console.pdb
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.csproj.AssemblyReference.cache
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.AssemblyInfoInputs.cache
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.AssemblyInfo.cs
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.dll
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\ref\Console.dll
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.pdb
+C:\Users\Дамир\Desktop\c#_kgeu\Console\Console\obj\Debug\net5.0\Console.genruntimeconfig.cache
